@@ -4,4 +4,4 @@ Hello there 👋 I'm Patrick and I'm IT student. I love to develop myself that's
 🟨 I’m currently learning JavaScript and 🎨 CSS. <br>
 🛣️ My roadmap: [here](https://myfrontendroadmap.netlify.app)
 ❔ How to reach me: [here 🤝](https://www.linkedin.com/in/patryk-ruczyński-4ab5b6219/)
-Check projects I currently working on right below.
+🔜 More bigger projects, but You can check projects I currently working on right below.
