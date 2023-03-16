@@ -5,15 +5,13 @@
 
 🌱 I’m currently learning **🟨 Javascript**
 
-👨‍💻 All of my projects are available right bellow.
-
 😎 Check my health project/challange - https://zmianana100.pl
 
 📫 How to reach me **ruczynskipatryk22@gmail.com**
 
 🛣️ My roadmap [here](https://myfrontendroadmap.netlify.app)
   
-🔜 More bigger projects, but You can check projects I currently working on right below.
+🔜 More bigger projects, but You can check projects I currently working on right bellow.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/patryk-ruczyński-4ab5b6219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaa" height="30" width="40" /></a>
