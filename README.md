@@ -1,6 +1,8 @@
 <h1 align="center">Hello there 👋, I'm Patrick and I'm IT student from Poland. </h1>
 <h3 align="center">I love to develop myself that's why I started learn programing and why I'm here. I Will put here some of my projects, You can check them right below. Have a great day! </h3>
 
+🌍 I'm based in Elbląg, Poland.
+
 🔭 I’m currently working on **develop my FrontEnd skills day by day.**
 
 🌱 I’m currently learning **🟨 Javascript**
