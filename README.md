@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,I'm Patrick and I'm PT and IT student from Poland. </h1>
-<h3 align="center">I love to develop myself that's why I started learn programing and why I'm here. I Will put here my projects, You can check them right below. Have a great day! In may of 2023 I decide to change direction - stop learning frontend and start learning JAVA.</h3>
+<h3 align="center">I love to develop myself that's why I started learn programing and why I'm here. I Will put here my projects, You can check them right below. Have a great day! In may of 2023 I decide to change direction - stop learning frontend and start learning JAVA and all the Beckend stuff.</h3>
 
 🌍 I'm based in Poland.
 
