@@ -8,6 +8,7 @@
 - 🌱 Learning **☕️ JAVA and Spring now**
 
 👨🏼‍💻 All of my projects are available at [here](https://ruczynski.netlify.app) and on the bottom of my github.
+<br>
 😎 Check my other projects like health project/challange - https://zmianana100.pl
 
 📫 How to reach me **ruczynskipatryk22@gmail.com**
