@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my very own 🎮 2D game based on JAVA. You can check this project right below.**
 
-- 🌱 I’m currently learning **☕️ JAVA**
+- 🌱 Learning **☕️ JAVA and Spring now**
 
 👨🏼‍💻 All of my projects are available at [here](https://ruczynski.netlify.app) and on the bottom of my github.
 😎 Check my other projects like health project/challange - https://zmianana100.pl
