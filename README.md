@@ -3,7 +3,7 @@
 
 🌍 I'm based in Poland.
 
-- 🔭 I’m currently working on **my very own 🎮 2D game based on JAVA. You can check this project right below.**
+- 🔭 I’m currently working on **my very own 🎮 2D game based on JAVA. You can check this project right below. Currently it is working on terminal window. **
 
 - 🌱 Learning **☕️ JAVA and Spring now**
 
