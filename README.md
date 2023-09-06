@@ -13,7 +13,6 @@
 📫 Contact with me via email **ruczynskipatryk22@gmail.com**
 <br>
 or
-<br>
 <h3 align="left">Contact with me via Linkedin:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/patryk-ruczyński-4ab5b6219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaa" height="30" width="40" /></a>
