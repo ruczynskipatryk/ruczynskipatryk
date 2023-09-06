@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋<br>I'm Patrick and I'm Personal Trainer and IT student from Poland. </h1>
-<h3 align="center">I love to develop myself that's why I started learn programing and why I'm here. I Will put here my projects, You can check them right below. Have a great day! In may of 2023 I decide to change direction - stop learning frontend and start learning JAVA and all the Beckend stuff. Currently working on my game in Java and also looking for a first job.</h3>
+<h1 align="center">Hello 👋<br>I'm Patrick and I'm Personal Trainer and IT student from Poland. </h1>
+<h3 align="center">I love to develop myself that's why I started learn programing and why I'm here. I Will put here my projects, You can check them right below. In may of 2023 I decide to change direction - stop learning frontend and start learning JAVA and all the Beckend stuff. Currently working on my game in Java and also looking for a first job as a Java Developer. Have a great day!</h3>
 
 - 🌍 Based in Poland.
 - 🎮 Currently working on **my very own 2D game based on JAVA. You can check this project right below. Currently it is working properly on terminal window.**
@@ -10,8 +10,10 @@
 <br>
 😎 Check my other projects like health project/challange - https://zmianana100.pl
 
-📫 How to reach me **ruczynskipatryk22@gmail.com**
-
+📫 Contact with me via email **ruczynskipatryk22@gmail.com**
+<br>
+or
+<br>
 <h3 align="left">Contact with me via Linkedin:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/patryk-ruczyński-4ab5b6219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaa" height="30" width="40" /></a>
