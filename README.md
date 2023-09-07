@@ -2,8 +2,8 @@
 <h3 align="center">I love to develop myself that's why I started learn programing and why I'm here. I Will put here my projects, You can check them right below. In may of 2023 I decide to change direction - stop learning frontend and start learning JAVA and all the Beckend stuff. Currently working on my game in Java and also looking for a first job as a Java Developer. Have a great day!</h3>
 
 - 🌍 Based in Poland.
-- 🎮 Currently working on **my very own 2D game based on JAVA. You can check this project right below. Currently it is working properly on terminal window.**
 - 👀 I'm Looking for a first job as a **Java Developer.**
+- 🎮 Currently working on **my very own 2D game based on JAVA. You can check this project right below. Currently it is working properly on terminal window.**
 <br>
 
 👨🏼‍💻 All of my projects are available at [here](https://ruczynski.netlify.app) and on the bottom of my github.
