@@ -8,9 +8,9 @@
 
 👨🏼‍💻 All of my projects are available at [here](https://ruczynski.netlify.app) and on the bottom of my github.
 <br>
-😎 Check my other projects like health challange - https://zmianana100.pl
+👉🏼 Check my other projects like health challange - https://zmianana100.pl
 
-📫 Contact with me via email **ruczynskipatryk22@gmail.com**
+📧 Contact with me via email **ruczynskipatryk22@gmail.com**
 
 <h3 align="left">Contact with me via Linkedin:</h3>
 <p align="left">
