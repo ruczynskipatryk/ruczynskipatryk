@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🤝🏼<br>I'm Patrick and I'm Personal Trainer and IT student from Poland. </h1>
-<h3 align="center"><h3>I love self-improvement, which is why I started learning programming and why I'm here on GitHub. I will be sharing my projects here, which you can check out below. In May 2023, I made the decision to change direction — I stopped learning frontend and started focusing on JAVA and all the backend technologies. Currently, I'm working on my Java game project and actively seeking my first job as a Java Developer. Have a great day!</h3>
+<h4 align="center">I love self-improvement, which is why I started learning programming and why I'm here on GitHub. I will be sharing my projects here, which you can check out below. In May 2023, I made the decision to change direction — I stopped learning frontend and started focusing on JAVA and all the backend technologies. Currently, I'm working on my Java game project and actively seeking my first job as a Java Developer. Have a great day!</h4>
 
 - 🌍 Based in Poland.
 - 👀 Looking for a first job as a **Java Developer.**
