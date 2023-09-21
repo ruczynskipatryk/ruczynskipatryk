@@ -5,8 +5,9 @@
 <br>
 
 - 🌍 Based in Poland.
-- 👀 Looking for a first job as a **Java Developer.**
 - 🎮 Currently working on **my very own 2D game based on JAVA. You can check this project right below. Currently it is working properly on terminal window.**
+- 👀 Looking for a first job as a **Java Developer.**
+
 <br>
 
 👨🏼‍💻 All of my projects are available at [here](https://ruczynski.netlify.app) and on the bottom of my github.
