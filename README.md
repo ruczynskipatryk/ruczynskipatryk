@@ -2,7 +2,7 @@
 
 <h3 align="center">I love self-improvement, which is why I started learning programming and why I'm here on GitHub. I will be sharing my projects here, which you can check out below. </h3>
 
-<h3 align="center"> In May 2023, I made the decision to change direction — I stopped learning frontend and started focusing on JAVA and all the backend technologies. Currently, I'm working on my Java game project and actively seeking my first job as a Java Developer. Have a great day!</h3>
+<h3> In May 2023, I made the decision to change direction — I stopped learning frontend and started focusing on JAVA and all the backend technologies. Currently, I'm working on my Java game project and actively seeking my first job as a Java Developer. Have a great day!</h3>
 
 <br>
 
