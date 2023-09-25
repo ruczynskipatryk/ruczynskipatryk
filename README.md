@@ -11,7 +11,7 @@
 
 <br>
 
-👨🏼‍💻 All of my projects are available at [here](https://ruczynski.netlify.app) and on the bottom of my github.
+👨🏼‍💻 All of my projects are available at [here](https://ruczynski.netlify.app) and here on the GitHub of course.
 <br>
 👉🏼 Check my other projects like health/fitness challange - https://zmianana100.pl
 
