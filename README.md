@@ -8,7 +8,7 @@
 
 - 🌍 Based in Poland.
 - 🎮 Currently working on **my 2D game based on JAVA. You can check this project right below. Currently it is working properly on terminal window.**
-- 👀 Looking for a first job as a **Java Developer.**
+- 👀 Looking for a first job as a **Java Developer.** You can contact me - all the information is provided below.
 
 <br>
 
