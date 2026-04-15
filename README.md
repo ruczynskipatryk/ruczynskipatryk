@@ -2,18 +2,17 @@
 <br>
 <br>
 <p align="center">I love self-improvement, which is why I started learning programming and why I'm here on GitHub. I will be sharing my projects here, which you can check out below. </p>
-<p align="center"> In May 2023, I made the decision to change direction — I stopped learning frontend and started focusing on JAVA and all the backend technologies. Currently, I'm working on my Java game project and actively seeking my first job as a Java Developer. Have a great day! 😁</p>
+<p align="center"> - 😁</p>
 
 <br>
 
 - 🌍 Based in Poland.
-- 🎮 Currently working on **my 2D game based on JAVA. You can check this project right below. Currently it is working properly on terminal window.**
-- 👀 Looking for a first job as a **Java Developer.** You can contact me - all the information is provided below.
+- 🎮 Currently working on ** - **
 
 <br>
 
-👨🏼‍💻 All of my projects are available at [here](https://ruczynski.netlify.app) and here on the GitHub of course.
-<br>
+/* 👨🏼‍💻 All of my projects are available at [here](https://ruczynski.netlify.app) and here on the GitHub of course.
+<br> */
 👉🏼 Check my other projects like health/fitness challange - https://zmianana100.pl
 
 <br>
